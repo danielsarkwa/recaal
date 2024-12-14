@@ -1,5 +1,34 @@
 # Recaal
+
 **Step-by-step guides for every coding process that matters.**
+
+---
+
+## Table of Contents
+
+1. [Description](#description)
+2. [Problem](#problem)
+3. [Solution](#solution)
+4. [Personas](#personas)
+5. [Use Cases](#use-cases)
+6. [Full Feature Set](#full-feature-set)
+   - [Guide Creation](#1-guide-creation)
+   - [Personal Notes and Comments](#2-personal-notes-and-comments)
+   - [Forking/Versioning](#3-forkingversioning)
+   - [Search & Navigation](#4-search--navigation)
+   - [Authentication & Security](#5-authentication--security)
+   - [Responsive Design](#6-responsive-design)
+   - [AI Integration](#7-ai-integration)
+7. [MVP Features](#mvp-features)
+8. [Technical Requirements](#technical-requirements)
+9. [Potential Solutions for Page Creation, Display, and Storage](#potential-solutions-for-page-creation-display-and-storage)
+   - [Page Creation and Display](#page-creation-and-display)
+   - [Data Storage and Retrieval](#data-storage-and-retrieval)
+10. [Validation Plan](#validation-plan)
+11. [Setup Instructions](#setup-instructions)
+12. [Project Milestones](#project-milestones)
+
+---
 
 ## Description
 
@@ -168,3 +197,7 @@ Provide detailed steps to clone the repository, set up the environment, and run 
 - AI for converting PDFs/slides.
 - Forking/versioning features.
 - Enhanced search and navigation.
+
+---
+
+Let me know if you’d like to tweak anything further!
