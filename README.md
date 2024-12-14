@@ -184,6 +184,12 @@ Provide detailed steps to clone the repository, set up the environment, and run 
 3. Set up Azure configurations.
 4. Start the development server.
 
+## Production
+
+1. Deploy application for user to use the application for free (limited page creation to ensure we don't inquire cost for the running application)
+2. Make it open source and a quite on how to set up the application on private infrustracture and use the app for free in your organization
+3. Ask for sponsorship to keep the project open source
+
 ---
 
 ## Project Milestones
@@ -197,7 +203,3 @@ Provide detailed steps to clone the repository, set up the environment, and run 
 - AI for converting PDFs/slides.
 - Forking/versioning features.
 - Enhanced search and navigation.
-
----
-
-Let me know if you’d like to tweak anything further!
