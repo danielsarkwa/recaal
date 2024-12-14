@@ -64,33 +64,22 @@ Build a web application that allows instructors to document step-by-step process
 
 ## Full Feature Set
 
-### 1. Guide Creation
-- Instructors can create step-by-step documentation.
-- Upload images/screenshots to illustrate steps.
-- Add code blocks with syntax highlighting.
-
-### 2. Personal Notes and Comments
-- Students can add their own notes to guides.
-- Comment on specific sections for clarification.
-
-### 3. Forking/Versioning
-- Students can fork guides and customize them.
-- Track changes or revert to the original guide.
-
-### 4. Search & Navigation
-- Search guides and specific keywords.
-- Use an intuitive sidebar/menu for easy navigation.
-
-### 5. Authentication & Security
-- Secure user login with Azure Active Directory B2C.
-- Role-based access (Instructors vs. Students).
-
-### 6. Responsive Design
-- Fully functional on desktops, tablets, and mobile devices.
-
-### 7. AI Integration
-- Automatically convert PDFs/slides into editable guides.
-- Suggest step-by-step plans based on a brief topic description.
+| Feature                     | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| **Guide Creation**          | Instructors can create step-by-step documentation.                         |
+|                             | Upload images/screenshots to illustrate steps.                             |
+|                             | Add code blocks with syntax highlighting.                                  |
+| **Personal Notes and Comments** | Students can add their own notes to guides.                                |
+|                             | Comment on specific sections for clarification.                            |
+| **Forking/Versioning**      | Students can fork guides and customize them.                               |
+|                             | Track changes or revert to the original guide.                             |
+| **Search & Navigation**     | Search guides and specific keywords.                                       |
+|                             | Use an intuitive sidebar/menu for easy navigation.                         |
+| **Authentication & Security** | Secure user login with Azure Active Directory B2C.                        |
+|                             | Role-based access (Instructors vs. Students).                              |
+| **Responsive Design**       | Fully functional on desktops, tablets, and mobile devices.                 |
+| **AI Integration**          | Automatically convert PDFs/slides into editable guides.                    |
+|                             | Suggest step-by-step plans based on a brief topic description.             |
 
 ---
 
