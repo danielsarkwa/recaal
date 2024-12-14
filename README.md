@@ -98,9 +98,7 @@ Build a web application that allows instructors to document step-by-step process
 3. **Survey Students**: Ask how they currently take notes during coding demos and if they would use a tool that provides step-by-step documentation.
 4. **Survey Instructors**: Determine if they would find value in a tool that simplifies creating and sharing demo documentation.
 
-## Setup Instructions
-
-Provide detailed steps to clone the repository, set up the environment, and run the project locally:
+## Local Setup Instructions
 
 1. Clone the repository.
 2. Install dependencies.
