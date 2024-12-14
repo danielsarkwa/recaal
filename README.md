@@ -24,11 +24,9 @@
    - [AI Integration](#7-ai-integration)
 7. [MVP Features](#mvp-features)
 8. [Technical Requirements](#technical-requirements)
-9. [Potential Solutions for Page Creation, Display, and Storage](#potential-solutions-for-page-creation-display-and-storage)
-   - [Page Creation and Display](#page-creation-and-display)
-   - [Data Storage and Retrieval](#data-storage-and-retrieval)
-10. [Validation Plan](#validation-plan)
-11. [Setup Instructions](#setup-instructions)
+9. [Validation Plan](#validation-plan)
+10. [Local Setup Instructions](#setup-instructions)
+11. [Production](#production)
 12. [Project Milestones](#project-milestones)
 
 ## Description
