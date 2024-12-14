@@ -91,50 +91,6 @@ Build a web application that allows instructors to document step-by-step process
 4. **Azure Services**: Host the application using Azure App Service. Use Azure Blob Storage for storing images/screenshots.
 5. **Authentication**: Implement user authentication using Azure Active Directory B2C.
 
-## Potential Solutions for Page Creation, Display, and Storage
-
-### Page Creation and Display
-
-#### 1. Page Creation
-- Use a WYSIWYG (What You See Is What You Get) editor or Markdown editor to allow instructors to create content easily.
-- Support text formatting, code blocks, images, and more for comprehensive guide creation.
-
-#### 2. Page Display
-- Implement a clean and responsive design using a modern frontend framework like React or Angular.
-- Ensure the content is presented clearly on all devices.
-
-#### 3. Navigation
-- Implement a sidebar or menu that lists all the available documents or guides.
-- Enable students to easily navigate to specific lessons or demos.
-
-#### 4. Search Functionality
-- Add a search bar to allow students to quickly find specific topics or commands within the documentation.
-
-#### 5. Interactive Elements
-- Include interactive elements like expandable sections for additional explanations.
-- Add copyable code snippets for easy use by students.
-
-### Data Storage and Retrieval
-
-#### 1. Markdown Storage
-- Store the content created in the WYSIWYG or Markdown editor as Markdown text in the database.
-- Markdown is a lightweight and human-readable format that’s easy to store and retrieve.
-
-#### 2. Database Structure
-- Use a relational database like SQL Server.
-- Store each document as a separate record with fields for the document title, content (stored as Markdown), author, creation date, and any other metadata.
-
-#### 3. Markdown Rendering
-- Use a Markdown rendering library on the frontend to convert the Markdown text into HTML for display.
-- Ensure the content is displayed cleanly on the webpage.
-
-#### 4. Comments Storage
-- Create a separate table in the database for comments, linking each comment to a specific document and possibly a specific section or line within the document.
-
-#### 5. Dynamic Rendering
-- Fetch the Markdown content from the database and render it dynamically in the browser using a Markdown rendering library.
-- Use anchor tags or IDs for specific sections, allowing comments to be associated with specific parts of the document.
-
 ## Validation Plan
 
 1. **Interview Students**: Ask if they struggle to remember coding commands and demo steps.
