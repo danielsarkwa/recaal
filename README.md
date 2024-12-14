@@ -3,7 +3,7 @@
 
 ## Description
 
-Recaal makes it easy to create, share, and revisit step-by-step guides for any task—whether it’s a coding demo, a software workflow, or a DIY project. With screenshots, detailed explanations, and the ability to add personal notes, Recaal helps you organize and recall processes effortlessly, anytime you need them.
+Recaal makes it easy to create, share, and revisit step-by-step guides for any task—whether it’s a coding demo, a software workflow, or a DIY project. With screenshots, detailed explanations, and the ability to add personal notes and comments, Recaal helps you organize and recall processes effortlessly, anytime you need them.
 
 ---
 
