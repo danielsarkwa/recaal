@@ -34,8 +34,6 @@
 
 Recaal makes it easy to create, share, and revisit step-by-step guides for any task—whether it’s a coding demo, a software workflow, or a DIY project. With screenshots, detailed explanations, and the ability to add personal notes as comments, Recaal helps you organize and recall processes effortlessly, anytime you need them.
 
----
-
 ## Problem
 
 Students often struggle to remember all the commands and steps demonstrated during live coding sessions. It’s challenging to recall everything and take effective notes for later reference.
@@ -44,23 +42,17 @@ Students often struggle to remember all the commands and steps demonstrated duri
 
 Build a web application that allows instructors to document step-by-step processes for their demos. These documents can include screenshots, commands, and explanations. Students can revisit these step-by-step guides anytime, leave comments, and even add their own notes.
 
----
-
 ## Personas
 
 1. **Coding Student**: Needs a reliable reference to revisit class demonstrations and commands.
 2. **Instructor**: Wants to provide students with clear, step-by-step documentation for coding demos.
 3. **Developer**: Wants to build a project to showcase software design and development skills.
 
----
-
 ## Use Cases
 
 1. Students revisit previous lessons to recall commands and processes.
 2. Instructors create and share step-by-step guides with students before or after live demos.
 3. Developers build the application using their preferred tech stack and Azure services.
-
----
 
 ## Full Feature Set
 
@@ -81,23 +73,14 @@ Build a web application that allows instructors to document step-by-step process
 | **AI Integration**          | Automatically convert PDFs/slides into editable guides.                    |
 |                             | Suggest step-by-step plans based on a brief topic description.             |
 
----
-
 ## MVP Features
 
-### Guide Creation
-- Basic step-by-step creation with text, code snippets, and images.
-
-### User Authentication
-- Secure login and user roles (Instructor/Student).
-
-### Guide Viewing
-- Students can view guides shared by instructors.
-
-### Commenting
-- Ability to add basic comments on guides.
-
----
+| Feature              | Description                                                      |
+|----------------------|------------------------------------------------------------------|
+| **Guide Creation**   | Basic step-by-step creation with text, code snippets, and images. |
+| **User Authentication** | Secure login and user roles (Instructor/Student).                |
+| **Guide Viewing**    | Students can view guides shared by instructors.                  |
+| **Commenting**       | Ability to add basic comments on guides.                         |
 
 ## Technical Requirements
 
@@ -106,8 +89,6 @@ Build a web application that allows instructors to document step-by-step process
 3. **Database**: Use a relational database like SQL Server to store documentation and user comments.
 4. **Azure Services**: Host the application using Azure App Service. Use Azure Blob Storage for storing images/screenshots.
 5. **Authentication**: Implement user authentication using Azure Active Directory B2C.
-
----
 
 ## Potential Solutions for Page Creation, Display, and Storage
 
@@ -153,16 +134,12 @@ Build a web application that allows instructors to document step-by-step process
 - Fetch the Markdown content from the database and render it dynamically in the browser using a Markdown rendering library.
 - Use anchor tags or IDs for specific sections, allowing comments to be associated with specific parts of the document.
 
----
-
 ## Validation Plan
 
 1. **Interview Students**: Ask if they struggle to remember coding commands and demo steps.
 2. **Interview Instructors**: Ask if they find it challenging to provide comprehensive notes or documentation for live demos.
 3. **Survey Students**: Ask how they currently take notes during coding demos and if they would use a tool that provides step-by-step documentation.
 4. **Survey Instructors**: Determine if they would find value in a tool that simplifies creating and sharing demo documentation.
-
----
 
 ## Setup Instructions
 
@@ -178,8 +155,6 @@ Provide detailed steps to clone the repository, set up the environment, and run 
 1. Deploy application for user to use the application for free (limited page creation to ensure we don't inquire cost for the running application)
 2. Make it open source and a quite on how to set up the application on private infrustracture and use the app for free in your organization
 3. Ask for sponsorship to keep the project open source
-
----
 
 ## Project Milestones
 
