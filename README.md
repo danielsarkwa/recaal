@@ -1,6 +1,7 @@
-## Recaal - Step-by-step guides for every coding process that matters.
+# Recaal
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+**Step-by-step guides for every coding process that matters.**
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Azure](https://img.shields.io/badge/Azure-Enabled-blue)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-blue)
