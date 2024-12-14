@@ -2,8 +2,6 @@
 
 **Step-by-step guides for every coding process that matters.**
 
----
-
 ## Table of Contents
 
 1. [Description](#description)
@@ -27,8 +25,6 @@
 10. [Validation Plan](#validation-plan)
 11. [Setup Instructions](#setup-instructions)
 12. [Project Milestones](#project-milestones)
-
----
 
 ## Description
 
